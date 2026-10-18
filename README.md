@@ -31,9 +31,11 @@ You need Bun, Xcode 26 and an iOS 26 simulator.
 ```bash
 make backend   # starts the server on http://127.0.0.1:8787 with 100 sample recordings
 make project   # generates the Xcode project
+make layers    # generates project layers
+make open      # opens XCode project
 ```
 
-Open the project in Xcode and run the app on two simulators, for example iPhone 17 Pro and iPhone Air. Both talk to the same server. If you ran an earlier build, delete the app from each simulator first, because the local database schema has changed.
+Run the app on two simulators, for example iPhone 17 Pro and iPhone Air. Both talk to the same server. If you ran an earlier build, delete the app from each simulator first, because the local database schema has changed.
 
 ## Usage
 
