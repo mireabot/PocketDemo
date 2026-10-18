@@ -1,0 +1,4 @@
+--swiftversion 6.2
+--exclude **/.build,backend,PocketDemo.xcodeproj
+--enable redundantExtensionACL
+--extensionacl on-extension

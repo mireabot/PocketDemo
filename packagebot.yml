@@ -1,0 +1,47 @@
+# Configuration for packagebot (`make layers`).
+# Package.swift files are generated from each package's imports; don't edit them by hand.
+layers:
+  # Layers are ordered "top down", and can depend on layers below them (like a pyramid).
+  - name: Features
+    allows_intra_layer_dependencies: false
+
+  - name: Services
+    allows_intra_layer_dependencies: true
+
+  - name: Foundation
+    allows_intra_layer_dependencies: true
+
+target_mappings:
+  first_party:
+    - Combine
+    - CryptoKit
+    - Foundation
+    - FoundationEssentials
+    - Network
+    - Observation
+    - os
+    - os.log
+    - OSLog
+    - PackageDescription
+    - SwiftUI
+    - Testing
+    - UIKit
+    - XCTest
+
+  third_party:
+    - name: GRDB
+      package_identifier: GRDB.swift
+    - name: Dependencies
+      package_identifier: swift-dependencies
+    - name: DependenciesMacros
+      package_identifier: swift-dependencies
+
+third_party_packages:
+  GRDB.swift:
+    url: https://github.com/groue/GRDB.swift.git
+    version_rule: .upToNextMajor
+    version: 7.6.1
+  swift-dependencies:
+    url: https://github.com/pointfreeco/swift-dependencies.git
+    version_rule: .upToNextMajor
+    version: 1.9.4

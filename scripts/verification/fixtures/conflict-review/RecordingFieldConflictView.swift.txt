@@ -1,0 +1,61 @@
+import Domain
+import PocketUI
+import SwiftUI
+
+struct RecordingFieldConflictView: View {
+    let conflict: FieldConflict
+    let onResolve: (FieldResolution) -> Void
+
+    @State private var merged = ""
+    @State private var merging = false
+    @ScaledMetric(relativeTo: .headline) private var headingSize = 18
+    @ScaledMetric(relativeTo: .footnote) private var labelSize = 14
+    @ScaledMetric(relativeTo: .caption) private var captionSize = 12
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 16) {
+            Text("\(conflict.field.rawValue.capitalized) changed on another device")
+                .font(.system(size: headingSize, weight: .semibold))
+            value("Before", text: conflict.base)
+            value("Yours", text: conflict.mine)
+            value("Theirs", text: conflict.theirs)
+            if let device = conflict.changedBy {
+                Text(device)
+                    .font(.system(size: captionSize))
+                    .foregroundStyle(.secondary)
+            }
+            resolutionControls
+        }
+        .padding(16)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .background(PocketPalette.surface, in: .rect(cornerRadius: 24))
+    }
+
+    private var resolutionControls: some View {
+        VStack(alignment: .leading, spacing: 12) {
+            Button("Keep mine") { onResolve(.keepMine) }
+            Button("Keep theirs") { onResolve(.keepTheirs) }
+            if merging {
+                TextField("Merged \(conflict.field.rawValue)", text: $merged, axis: .vertical)
+                    .padding(16)
+                    .background(PocketPalette.screen, in: .rect(cornerRadius: 24))
+                Button("Save merged value") { onResolve(.use(merged)) }
+            } else {
+                Button("Merge manually") { merged = conflict.mine; merging = true }
+            }
+        }
+        .buttonStyle(.bordered)
+        .buttonBorderShape(.roundedRectangle(radius: 8))
+        .controlSize(.large)
+    }
+
+    private func value(_ label: String, text: String) -> some View {
+        VStack(alignment: .leading, spacing: 4) {
+            Text(label)
+                .font(.system(size: labelSize))
+                .foregroundStyle(.secondary)
+            Text(text)
+                .textSelection(.enabled)
+        }
+    }
+}

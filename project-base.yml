@@ -1,0 +1,55 @@
+options:
+  bundleIdPrefix: com.MKM
+  deploymentTarget:
+    iOS: "26.0"
+  xcodeVersion: "26.0"
+  groupSortPosition: top
+  groupOrdering:
+    - order: [PocketDemo, Layers]
+    - pattern: '^Layers$'
+      order: [Features, Services, Foundation]
+
+settings:
+  base:
+    DEVELOPMENT_TEAM: 52W32PX8AB
+    SUPPORTED_PLATFORMS: "iphoneos iphonesimulator"
+    SUPPORTS_MACCATALYST: NO
+    SWIFT_VERSION: "6.0"
+    SWIFT_STRICT_CONCURRENCY: complete
+
+packages:
+  # Local Packages (`make package` inserts new ones above the marker below)
+
+  PocketNetworking:
+    path: Layers/Foundation/PocketNetworking
+    group: Layers/Foundation
+
+  PocketSync:
+    path: Layers/Services/PocketSync
+    group: Layers/Services
+
+  PocketRecordings:
+    path: Layers/Features/PocketRecordings
+    group: Layers/Features
+
+  Domain:
+    path: Layers/Foundation/Domain
+    group: Layers/Foundation
+
+  PocketUI:
+    path: Layers/Foundation/PocketUI
+    group: Layers/Foundation
+
+  # External Packages
+  swift-dependencies:
+    url: "https://github.com/pointfreeco/swift-dependencies.git"
+    from: "1.9.4"
+
+aggregateTargets:
+  SwiftLint:
+    buildScripts:
+      - name: Run SwiftLint
+        basedOnDependencyAnalysis: false
+        script: |
+          export PATH="/opt/homebrew/bin:$PATH"
+          if command -v mint >/dev/null; then mint run swiftlint --quiet; fi

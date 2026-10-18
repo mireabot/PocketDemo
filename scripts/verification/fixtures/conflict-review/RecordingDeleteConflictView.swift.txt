@@ -1,0 +1,30 @@
+import Domain
+import PocketUI
+import SwiftUI
+
+struct RecordingDeleteConflictView: View {
+    let conflict: DeleteConflict
+    let onResolve: (DeleteResolution) -> Void
+
+    @ScaledMetric(relativeTo: .headline) private var headingSize = 18
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 16) {
+            Text("Recording changed before deletion")
+                .font(.system(size: headingSize, weight: .semibold))
+            Text(conflict.theirTitle)
+                .fontWeight(.semibold)
+            Text(conflict.theirSummary)
+            VStack(alignment: .leading, spacing: 12) {
+                Button("Delete anyway", role: .destructive) { onResolve(.deleteAnyway) }
+                Button("Keep recording") { onResolve(.keepRecording) }
+            }
+            .buttonStyle(.bordered)
+            .buttonBorderShape(.roundedRectangle(radius: 8))
+            .controlSize(.large)
+        }
+        .padding(16)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .background(PocketPalette.surface, in: .rect(cornerRadius: 24))
+    }
+}

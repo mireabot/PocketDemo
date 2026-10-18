@@ -1,0 +1,20 @@
+name: iOS checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  ios:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: brew install mint
+      - run: make check-swift-access
+      - run: make check-swift-file-groups
+      - run: make check-conflict-review-ui
+      - run: make check-package-resources
+      - run: make layers
+      - run: make project
+      - run: git diff --exit-code -- Layers PocketDemo.xcodeproj
+      - run: make build

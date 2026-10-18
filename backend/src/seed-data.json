@@ -1,0 +1,1502 @@
+[
+  {
+    "title": "Weekly product sync with design team",
+    "summary": "The team reviewed the onboarding redesign and agreed to ship the new progress bar next sprint. Open questions remain about the empty state copy and analytics events.",
+    "transcript": [
+      "Maya: Okay, let's start with the onboarding redesign since that's the biggest item this week.",
+      "Dev: The new progress bar is done on iOS, and Android should be finished by Thursday.",
+      "Maya: Great, can we confirm the copy for the empty state before we lock the design?",
+      "Priya: I drafted three options, and I think the shortest one tests best with first-time users.",
+      "Dev: Agreed, but we still need analytics events for each onboarding step before launch.",
+      "Maya: Let's put that on Dev's list and make sure QA has them by Monday.",
+      "Priya: I'll send final mockups to the group tonight so everyone can review them.",
+      "Maya: Perfect, and we ship the progress bar in the next sprint if QA signs off.",
+      "Dev: Sounds good, I'll update the ticket and link the mockups."
+    ]
+  },
+  {
+    "title": "Sunday morning run plan",
+    "summary": "The speaker plans a long run on Sunday with a route through the river trail. They also want to add two easy runs during the week and rest on Friday.",
+    "transcript": [
+      "Okay, the plan for this weekend is a long run on Sunday.",
+      "I want to hit fourteen kilometers if my legs feel fine after Saturday.",
+      "The river trail is flat, so it's a good place for steady pacing.",
+      "I'll start slow for the first three kilometers and warm up properly.",
+      "On Tuesday and Thursday I'll do easy runs of about six kilometers.",
+      "Friday is a full rest day, no exceptions, because my knee was sore last week.",
+      "I should also add two sets of hip mobility work after each easy run.",
+      "Water bottle, gels, and the orange shoes go in the bag on Saturday night.",
+      "If it rains, I'll move the long run to the treadmill and keep the pace easy."
+    ]
+  },
+  {
+    "title": "Interview notes with retired carpenter",
+    "summary": "A retired carpenter describes how he learned his trade from his father and how the work changed over four decades. He talks about tools he still keeps and the furniture he built for his family.",
+    "transcript": [
+      "My father taught me to read the grain before I ever touched a saw.",
+      "We worked out of a small shop behind the house on Miller Road.",
+      "Back then, everything was measured by hand and checked twice.",
+      "The machines came later, and I resisted them for almost ten years.",
+      "I still have the block plane he gave me, and I use it every week.",
+      "Most of the furniture in my daughter's house is something I built.",
+      "The hardest job was a set of church pews that took eight months.",
+      "People don't ask for real wood anymore, and that makes me a little sad.",
+      "If I could tell a young person one thing, it would be to slow down."
+    ]
+  },
+  {
+    "title": "Customer call with logistics manager",
+    "summary": "The customer reported delayed shipments from the Dallas warehouse and asked for a credit. The account manager promised a root cause report and a revised delivery schedule by Friday.",
+    "transcript": [
+      "Thanks for taking the call, we've had three late shipments in a row now.",
+      "Each delivery from the Dallas warehouse has been at least two days behind.",
+      "This is hurting our retail stores, and we've had to pull product from other sites.",
+      "I understand, and I'm sorry this has been disruptive for your team.",
+      "Can you tell me which SKUs were affected so we can trace the holdup?",
+      "We're sending the list over right after this call, with order numbers attached.",
+      "We'd like a credit on the last invoice to cover the rush freight costs.",
+      "I'll take that to finance today and send you a root cause report by Friday.",
+      "Please also give us a revised delivery schedule for the next six weeks."
+    ]
+  },
+  {
+    "title": "Voice memo about a bakery idea",
+    "summary": "The speaker wants to open a small sourdough bakery with a weekend-only menu. They listed startup costs and a few locations they want to visit.",
+    "transcript": [
+      "Idea for a small bakery, something I can run with just two people.",
+      "The menu would be sourdough loaves, rye, and a rotating focaccia.",
+      "Weekend only, from Friday evening to Sunday lunch, so the rent stays low.",
+      "Startup costs look like about forty thousand for the oven and the space.",
+      "I need to check the health permit timeline with the county office.",
+      "There's a corner unit on Halsey Street that might work if the landlord agrees.",
+      "Also, I should try selling bread at the Saturday farmers market first.",
+      "That would tell me whether people actually want a weekend bakery.",
+      "Note to self, call the bakers guild and ask about flour supplier rates."
+    ]
+  },
+  {
+    "title": "One on one with new engineer",
+    "summary": "The manager and a new engineer talked about her first month and set goals for the next quarter. They agreed she will lead the payments migration with pairing support.",
+    "transcript": [
+      "How are you feeling after your first month on the team?",
+      "It's been good, though the deployment process took me a while to learn.",
+      "That's normal, and the runbook should be easier to follow after this week.",
+      "What part of the codebase would you like to own next quarter?",
+      "I'd like to work on the payments migration if that's still open.",
+      "That's a big project, so you'd pair with Omar for the first few weeks.",
+      "I'm a little nervous about the database changes, but I want the challenge.",
+      "Good, let's write down two goals and review them at the end of October.",
+      "Thanks, this helps me feel like I know where I'm heading."
+    ]
+  },
+  {
+    "title": "Doctor visit follow up on blood pressure",
+    "summary": "The doctor reviewed recent blood pressure readings and adjusted the dose of a medication. She asked the patient to track readings at home for two weeks and return for a check.",
+    "transcript": [
+      "Your readings have been higher than I'd like over the last month.",
+      "The average was around one forty over ninety at the clinic.",
+      "I'm going to raise the dose of the lisinopril to ten milligrams daily.",
+      "Please take it in the morning with water, and avoid grapefruit juice.",
+      "I also want you to check your blood pressure at home twice a day.",
+      "Write the numbers down so we can compare them when you come back.",
+      "Cut back on salt, especially in canned soups and processed meats.",
+      "If you feel dizzy or get a bad headache, call the office right away.",
+      "We'll schedule a follow up in two weeks to see how things are going."
+    ]
+  },
+  {
+    "title": "Lecture notes on cell respiration",
+    "summary": "The lecturer explained the stages of cellular respiration and where ATP is produced. She highlighted the electron transport chain as the step most likely to appear on the exam.",
+    "transcript": [
+      "Today we're covering cellular respiration, which turns glucose into usable energy.",
+      "The process has four stages, starting with glycolysis in the cytoplasm.",
+      "Glycolysis produces a small amount of ATP and two molecules of pyruvate.",
+      "Next, pyruvate enters the mitochondria and becomes acetyl CoA.",
+      "The Krebs cycle then releases carbon dioxide and creates electron carriers.",
+      "The electron transport chain is where most of the ATP gets made.",
+      "Oxygen acts as the final electron acceptor, which is why we need to breathe.",
+      "This step is the one most likely to show up on the exam, so pay attention.",
+      "Next week we'll look at fermentation as a backup pathway without oxygen."
+    ]
+  },
+  {
+    "title": "Podcast idea about night shift nurses",
+    "summary": "The host sketched a podcast series that follows night shift nurses through a single hospital week. Each episode would focus on one nurse and one unusual patient story.",
+    "transcript": [
+      "I've been thinking about a podcast that follows night shift nurses.",
+      "Each episode would focus on one nurse across a single week of shifts.",
+      "The stories are rich, but nobody really hears from the people working at three a.m.",
+      "I'd keep it quiet and intimate, with minimal music and lots of ambient sound.",
+      "One episode could be about a nurse who calls every patient by their first name.",
+      "Another could cover a nurse who runs the coffee cart for the whole floor.",
+      "I'd need permission from the hospital, which might take a few months.",
+      "The first season could be six episodes, released every other Thursday.",
+      "I should record a test interview next week to see if the format works."
+    ]
+  },
+  {
+    "title": "Trip notes for Lisbon weekend",
+    "summary": "The traveler listed places to eat, a day trip to Sintra, and a tram route worth riding. They also noted that booking the Sintra palace tickets early is essential.",
+    "transcript": [
+      "For the Lisbon weekend, I want to keep the plan loose but structured.",
+      "Saturday morning I'll walk through Alfama and grab coffee near the cathedral.",
+      "The tram 28 route is crowded, so I'd go early before the tourists arrive.",
+      "Lunch at the small place near the market where they grill sardines.",
+      "On Sunday we're taking the train to Sintra, and the palace tickets sell out.",
+      "Book the palace time slot online the night before, not the morning of.",
+      "Dinner in Bairro Alto, and maybe a fado show if the schedule works.",
+      "Pack light shoes, because the cobblestones are brutal after a few hours.",
+      "Remember the euros in cash for the small cafes that don't take cards."
+    ]
+  },
+  {
+    "title": "Customer success call with startup founder",
+    "summary": "The founder reported that the team is growing fast and wants to add more user seats. The account lead proposed a tiered pricing plan and a call with the finance contact.",
+    "transcript": [
+      "We doubled our headcount this quarter, so we need more seats on the plan.",
+      "Right now we have forty seats, and we'll likely need around ninety by spring.",
+      "Can you walk me through how the pricing changes at that level?",
+      "There's a volume tier that drops the per seat price after the first fifty users.",
+      "That sounds reasonable, but our finance team will want a written breakdown.",
+      "I can send a quote with the tier details and the annual discount today.",
+      "Also, we'd like single sign on, is that included in the higher plan?",
+      "Yes, single sign on is in the business tier, and we can enable it this week.",
+      "Let's set a call with your finance contact next Tuesday to finalize it."
+    ]
+  },
+  {
+    "title": "Thinking out loud about a home office",
+    "summary": "The speaker is debating whether to convert the spare room into a home office or the garage. The main concerns are natural light, insulation, and the cost of a heater.",
+    "transcript": [
+      "I've been going back and forth on where the home office should go.",
+      "The spare room has good light in the morning but it gets stuffy in summer.",
+      "The garage has space, but the insulation is basically nonexistent.",
+      "A space heater would cost a lot to run every winter in the garage.",
+      "I could add a window in the garage, but that's a contractor job.",
+      "Maybe the spare room is the simpler choice even with the heat problem.",
+      "A small fan and blackout curtains might fix most of the temperature issues.",
+      "I'll price the curtains and a mini split unit before I decide.",
+      "Need to measure the room again to check whether the desk fits by the window."
+    ]
+  },
+  {
+    "title": "Interview with a beekeeper about winter losses",
+    "summary": "The beekeeper described losing a third of his hives over the winter and what he changed to prevent it. He now checks for mites in early autumn and feeds the colonies more often.",
+    "transcript": [
+      "This was a hard winter, I lost about a third of my hives.",
+      "Most of the losses came from varroa mites that spread quietly through the colonies.",
+      "I didn't test in late summer, and that was my biggest mistake.",
+      "Now I count mites every August with a simple sugar roll test.",
+      "If the count is high, I treat the hives before the cold sets in.",
+      "I also feed the bees a heavy syrup in September to build their stores.",
+      "The bees that survive winter are the ones that start the season with enough fat.",
+      "Honestly, the hobby taught me to pay attention to small signs early.",
+      "Next year I want to keep a logbook for every single hive."
+    ]
+  },
+  {
+    "title": "Team retrospective on sprint twelve",
+    "summary": "The team reflected on a sprint with too many interruptions and a late release. They agreed to limit incoming support tickets and to hold a shorter planning meeting next time.",
+    "transcript": [
+      "Let's go through what went well and what didn't in sprint twelve.",
+      "The search feature shipped on time, which was a real win for the team.",
+      "The release slipped two days because of a last minute bug in login.",
+      "Support tickets took up almost a third of everyone's time this sprint.",
+      "We need a rotation for support so the same people aren't always pulled in.",
+      "Planning ran over by an hour, so we should cut it to forty five minutes.",
+      "Carlos suggested writing acceptance criteria before the sprint starts.",
+      "I like that, it would have saved us from the confusion around the filters.",
+      "Let's try both changes for sprint thirteen and review again in two weeks."
+    ]
+  },
+  {
+    "title": "Grandmother telling stories about the farm",
+    "summary": "The grandmother recalls her childhood on a family farm and the winter when the well froze. She describes how neighbors helped each other through hard seasons.",
+    "transcript": [
+      "When I was little, our farm had twelve cows and a very cranky old mule.",
+      "We got our water from a well behind the barn, and it froze one January.",
+      "My brothers and I carried buckets of snow to the kitchen for two weeks.",
+      "The neighbors came over with a sled full of firewood and didn't ask for anything.",
+      "My mother made soup from whatever we had, and somehow it always tasted good.",
+      "Those winters were long, but everybody looked out for each other back then.",
+      "I still remember the smell of the wood smoke coming out of every chimney.",
+      "When spring came, the whole valley seemed to wake up at once.",
+      "Make sure you write this down, because nobody else remembers it the same way."
+    ]
+  },
+  {
+    "title": "Quick reminder to call the plumber",
+    "summary": "A short voice note reminds the speaker to call the plumber about a dripping kitchen faucet and a slow bathroom drain. The speaker also wants to ask about a water heater inspection.",
+    "transcript": [
+      "Reminder to call the plumber tomorrow morning before nine.",
+      "The kitchen faucet has been dripping for about a week now.",
+      "The bathroom drain is slow again, even after I used the plunger.",
+      "Ask if they can come out this Friday, because the weekend is booked.",
+      "Also ask about the water heater, it's making a popping noise at night.",
+      "Get a quote before they start any work, I don't want surprises.",
+      "Write down the name of the company from the magnet on the fridge.",
+      "If they can't come until next week, look for another option online.",
+      "Okay, that's all, reminder done."
+    ]
+  },
+  {
+    "title": "Hiring call for a data analyst role",
+    "summary": "The hiring manager and recruiter discussed a candidate for a data analyst role. They agreed the candidate is strong on SQL but needs a second round focused on dashboards.",
+    "transcript": [
+      "The candidate did well on the SQL screen, especially the window function question.",
+      "Her answer on cohort retention was clear and showed real product thinking.",
+      "She's less certain about building dashboards in our current BI tool.",
+      "I'd like to run a second round with a short dashboard exercise.",
+      "How long would the take home assignment take her?",
+      "Keep it to ninety minutes, and focus on one clear business question.",
+      "The compensation range is fine, but she's asking for a bit more base salary.",
+      "Let's see if we can meet her in the middle with a sign on bonus.",
+      "I'll send the feedback summary to the panel by end of day."
+    ]
+  },
+  {
+    "title": "Lecture on the French Revolution",
+    "summary": "The professor described the causes of the French Revolution, including fiscal crisis and food shortages. She connected these pressures to the storming of the Bastille and the Declaration of the Rights of Man.",
+    "transcript": [
+      "Today we'll look at the financial crisis that pushed France toward revolution.",
+      "The monarchy was deep in debt after decades of expensive wars.",
+      "Bread prices rose sharply in the years before 1789, and people were hungry.",
+      "The Estates General met that year, and the Third Estate demanded a real voice.",
+      "On July fourteenth, a crowd stormed the Bastille looking for gunpowder.",
+      "The Declaration of the Rights of Man followed in August of that year.",
+      "It described liberty and equality as natural rights of every citizen.",
+      "But the revolution also grew violent, and the Terror followed soon after.",
+      "For next class, read the chapter on the Thermidorian reaction."
+    ]
+  },
+  {
+    "title": "Voice memo on learning guitar",
+    "summary": "The player is practicing barre chords and feels stuck on the F chord. He plans to practice ten minutes each day with a metronome.",
+    "transcript": [
+      "Practice log for today, I spent forty minutes on barre chords.",
+      "The F chord still buzzes on the first string, which is frustrating.",
+      "I think my index finger isn't pressing flat enough across the fret.",
+      "I'll try rolling the finger a little and keeping my thumb behind the neck.",
+      "Tomorrow I'll start with ten minutes of chord changes using the metronome.",
+      "The tempo is set to sixty, and I'll increase it only when it's clean.",
+      "Also need new strings, these ones have been on for almost a year.",
+      "The song I want to play is the one by the river, mostly G and C.",
+      "Okay, that's enough for today, I'm going to rest my fingers."
+    ]
+  },
+  {
+    "title": "Hospital discharge planning conversation",
+    "summary": "A nurse explained the discharge plan to a patient recovering from hip surgery. They reviewed physical therapy visits, medications, and when to call the surgeon's office.",
+    "transcript": [
+      "You're doing well, and the team thinks you can go home tomorrow afternoon.",
+      "Your physical therapist will visit the house twice a week for the first month.",
+      "You'll need a walker for the next few weeks, and I've ordered one for you.",
+      "Take the blood thinner every evening at the same time to prevent clots.",
+      "Keep the incision dry and check it every morning for redness or swelling.",
+      "Call the surgeon if you have a fever above one hundred one or sudden pain.",
+      "Make sure someone can stay with you for the first three nights at home.",
+      "Any questions about the stairs at your house, we can review them now.",
+      "I'll give you a printed list of the warning signs before you leave."
+    ]
+  },
+  {
+    "title": "Investor update call on runway",
+    "summary": "The CEO updated the board on runway, which is now around fourteen months after recent cost cuts. They discussed whether to start a new fundraising round in the spring.",
+    "transcript": [
+      "Quick update, our current runway is about fourteen months at this burn rate.",
+      "We cut the vendor budget by twenty percent and closed two low margin contracts.",
+      "Revenue grew eight percent last month, which is ahead of our internal plan.",
+      "The question is whether we raise now or wait for another two quarters.",
+      "If we raise now, we'd have more room to hire for the enterprise team.",
+      "If we wait, we might get a better valuation if the growth holds through spring.",
+      "I'd like board feedback before we talk to any lead investors.",
+      "One board member suggested waiting until we have three new enterprise logos.",
+      "Let's make a decision at the next meeting with a full cash forecast."
+    ]
+  },
+  {
+    "title": "Sunday cooking notes for lasagna",
+    "summary": "The cook recorded the lasagna recipe with a spinach layer and a homemade bechamel. He noted the baking time and a tip about letting it rest before cutting.",
+    "transcript": [
+      "Here's the lasagna recipe I'm going to make for the family dinner on Sunday.",
+      "Start with a slow simmered tomato sauce, about forty minutes on low heat.",
+      "Use fresh spinach wilted in butter, then squeeze out the extra water.",
+      "The bechamel needs whole milk, flour, butter, and a pinch of nutmeg.",
+      "Layer the pasta, sauce, spinach, and ricotta, then repeat two times.",
+      "Top with mozzarella and a good handful of parmesan on the very top.",
+      "Bake it covered at one seventy five for thirty minutes, then uncover for fifteen.",
+      "The most important part is letting it rest for fifteen minutes before cutting.",
+      "If it looks loose, it just needs more time, don't panic and add flour."
+    ]
+  },
+  {
+    "title": "Moving day checklist for the apartment",
+    "summary": "The speaker lists tasks for moving day, including changing the address and booking the truck. They also want to schedule a cleaning crew for the old apartment before the deposit check.",
+    "transcript": [
+      "Moving day is on the fifteenth, so I need a clear checklist by next week.",
+      "Book the moving truck now, because the weekend slots fill up fast.",
+      "Change the address with the bank, the phone company, and the insurance provider.",
+      "Forward the mail through the post office, the form takes about a week.",
+      "Schedule a cleaning crew for the old place the day before we hand over keys.",
+      "Pack the kitchen last, and label every box with the room and a short list.",
+      "Take photos of the empty rooms for the deposit, just in case.",
+      "Keep the important documents in a folder that stays in my car.",
+      "Order pizza for the crew, because they will be tired and hungry."
+    ]
+  },
+  {
+    "title": "Panel discussion on sustainable fashion",
+    "summary": "Panelists discussed the cost of fast fashion and the challenges of recycling textiles. They agreed that rental and repair services are promising, but need better consumer habits to succeed.",
+    "transcript": [
+      "Fast fashion has a huge footprint, both in water use and in landfill waste.",
+      "Most textiles are blended, which makes recycling them really difficult today.",
+      "Some brands are testing take back programs, but the return rates are still low.",
+      "Renting clothes works well for events, but people rarely rent everyday items.",
+      "Repair services are growing, and I think they are the most underrated option.",
+      "Consumers need to buy fewer items and wear each piece for a much longer time.",
+      "Policy can help, for example through extended producer responsibility laws.",
+      "I'd like to see a clear label that tells people how long a garment will last.",
+      "We ran out of time, but I'll share the full transcript after the event."
+    ]
+  },
+  {
+    "title": "Voice note to a friend about moving",
+    "summary": "The speaker tells a friend about accepting a job in another city and feeling mixed emotions. The friend offers to help with packing and promises a visit in the spring.",
+    "transcript": [
+      "Hey, I wanted to tell you before anyone else, I got the job in Denver.",
+      "I'm excited, but also really sad to leave everyone here behind.",
+      "The new team seems great, and the work is exactly what I wanted.",
+      "The apartment situation is still a mess, and I haven't signed anything yet.",
+      "Honestly, I keep thinking about the Thursday dinners we always have.",
+      "Could you help me pack the books when the movers come next month?",
+      "I'll pay you back with dinner, or maybe the good coffee you like.",
+      "You should come visit in the spring, the mountains are amazing then.",
+      "Okay, call me back when you get a chance, love you, bye."
+    ]
+  },
+  {
+    "title": "Patient interview for a research study",
+    "summary": "A participant described living with chronic migraines and the triggers she has learned to avoid. She explained how her treatment plan has changed over the last two years.",
+    "transcript": [
+      "Can you tell me when the headaches started for you?",
+      "They began in my early twenties, mostly around my monthly cycle.",
+      "Bright screens and skipped meals always seem to make them worse.",
+      "I started keeping a headache diary, and that helped me find patterns.",
+      "My doctor switched me to a preventive medication about two years ago.",
+      "The side effects were rough at first, but things got better after a few months.",
+      "I still have bad days, maybe two or three a month, and I rest in a dark room.",
+      "The support group online has been really helpful for practical tips.",
+      "Is there anything else you'd like me to share for the study?"
+    ]
+  },
+  {
+    "title": "Brainstorm for a mobile game concept",
+    "summary": "The designers pitched a puzzle game where the player rewinds time to fix broken machines. They debated the core mechanic and how to keep early levels simple.",
+    "transcript": [
+      "The core idea is a puzzle game where you can rewind time by ten seconds.",
+      "Each level gives you a broken machine that needs to be repaired in order.",
+      "The rewind mechanic should feel satisfying, almost like unwinding a clock.",
+      "I'm worried that rewinding makes the puzzles too easy after the first hour.",
+      "Maybe rewinds should cost energy, so players have to plan their moves.",
+      "Early levels could teach the rewind with only one machine and no timer.",
+      "The art style could be soft and hand drawn, like a children's book.",
+      "We could test a prototype with ten players next week in the office.",
+      "Let's write down three possible levels so we can compare difficulty."
+    ]
+  },
+  {
+    "title": "Interview with a jazz drummer",
+    "summary": "The drummer talks about how he developed his feel and why he prefers small clubs over large venues. He describes a memorable night when the band played without a set list.",
+    "transcript": [
+      "I learned most of my time by playing along to records in my bedroom.",
+      "The trick is listening to the bass player more than to yourself.",
+      "Small clubs are my favorite because you can hear every person in the room.",
+      "Big venues make everything feel distant, and the energy disappears quickly.",
+      "One night the bandleader threw out the set list and we played for three hours.",
+      "Nobody knew what would come next, and that's where the magic happened.",
+      "I try to keep that openness even when I'm playing a tight arrangement.",
+      "Practice is about repetition, but also about letting the music surprise you.",
+      "If you're starting out, record yourself and listen back with honest ears."
+    ]
+  },
+  {
+    "title": "Voice memo about a dog training plan",
+    "summary": "The owner planned daily training sessions for a rescue puppy who pulls on the leash. The plan includes short sessions, treats, and a visit to a class on Saturday.",
+    "transcript": [
+      "Training plan for Biscuit, the new rescue puppy, starting today.",
+      "The biggest problem is leash pulling, and he gets very excited on walks.",
+      "I'll do three short sessions a day, each one about five minutes.",
+      "We'll stop and wait every time he pulls, until the leash goes slack.",
+      "Use small bits of chicken as treats, because he responds to them quickly.",
+      "Reward him for looking at me, and praise right away when he listens.",
+      "The class starts Saturday morning at the community center on Ash Street.",
+      "Also buy a front clip harness, the back clip makes the pulling worse.",
+      "Track progress in the notes app so we can see the improvement each week."
+    ]
+  },
+  {
+    "title": "Strategy meeting about regional expansion",
+    "summary": "Leadership discussed opening offices in two new regions and the hiring budget needed for each one. They agreed to start with a single pilot market before committing to a full launch.",
+    "transcript": [
+      "We have two candidate regions for expansion, the Midwest and the Southeast.",
+      "The Midwest has lower costs, but our customer base there is still small.",
+      "The Southeast has strong demand, but competition is very intense right now.",
+      "I'd suggest a pilot in one city before we commit to a full regional office.",
+      "A pilot would cost about six hundred thousand over nine months.",
+      "We should measure sales cycle length and churn during the pilot period.",
+      "If the pilot hits its targets, we can scale hiring in the second quarter.",
+      "Legal also needs to review the tax implications before we sign any lease.",
+      "Agreed, let's pick the pilot city by the end of this month."
+    ]
+  },
+  {
+    "title": "Nightly journal reflections on a breakup",
+    "summary": "The speaker reflects on a recent breakup and what they learned about communication. They are trying to focus on rebuilding routines and reconnecting with old friends.",
+    "transcript": [
+      "It's been three weeks since everything ended, and some days are still hard.",
+      "I keep replaying the last conversation and wishing I had said more.",
+      "Looking back, we stopped talking openly long before the actual breakup.",
+      "I'm trying to be honest with myself about my own part in that.",
+      "I've started running in the mornings again, and it clears my head.",
+      "I also called an old friend from college who I hadn't spoken to in years.",
+      "We laughed for an hour, and it felt like a small piece of myself came back.",
+      "I want to keep building things that are just mine for a while.",
+      "Tomorrow I'll sign up for the pottery class I keep putting off."
+    ]
+  },
+  {
+    "title": "Sales call with a regional retailer",
+    "summary": "The retailer asked for pricing on bulk orders and a faster restock schedule. The sales rep offered a volume discount and promised a dedicated account contact by next week.",
+    "transcript": [
+      "We're looking at a bulk order for about two hundred units per store.",
+      "Our current restock window is too slow, it takes almost three weeks.",
+      "Can you tell me what discount you can give for orders above that size?",
+      "For orders over two hundred units, we can offer twelve percent off the list.",
+      "We can also move your restock cycle to ten days if you commit to quarterly forecasts.",
+      "That sounds good, but I need the terms in writing before I take it to my boss.",
+      "I'll send the proposal with the pricing tiers and delivery schedule tomorrow.",
+      "Also, we'd like a dedicated account contact who knows our stores.",
+      "Great, I'll assign someone from our team and introduce them by next week."
+    ]
+  },
+  {
+    "title": "Recording notes from a museum tour",
+    "summary": "The guide walked visitors through a gallery of early photography and explained how the first cameras worked. The speaker noted which prints were most striking and wanted to come back.",
+    "transcript": [
+      "Welcome to the photography gallery, where we start with the earliest images.",
+      "The first photographs took several hours to expose on a metal plate.",
+      "That's why the people in early portraits rarely smile or move at all.",
+      "This print is a salt paper negative, which looks soft and almost ghostly.",
+      "Notice how the shadows have a warm brown tone rather than pure black.",
+      "Photographers in the nineteenth century often hand colored their prints.",
+      "The gallery also has a rare camera from a traveling expedition in Egypt.",
+      "I'd love to come back in the winter when the special exhibit opens.",
+      "Okay, that's the end of the tour, thanks for listening."
+    ]
+  },
+  {
+    "title": "Weekend plan for a camping trip",
+    "summary": "The planner listed gear for a two night camping trip and a campsite near the lake. They also noted that the forecast looks cold, so they need extra layers.",
+    "transcript": [
+      "We're heading to the lake campsite this weekend, two nights total.",
+      "The forecast says it'll drop to about forty degrees at night, so bring warm layers.",
+      "Tent, sleeping bags, and the small camp stove go in the back of the car.",
+      "Check that the propane canister is full before we leave on Friday.",
+      "We'll need a cooler with ice for the food, and plenty of drinking water.",
+      "Pack the headlamps and extra batteries, because the campsite has no lights.",
+      "Permits are already booked, and the check in time is three in the afternoon.",
+      "Bring the bug spray, the lake is beautiful but the mosquitoes are brutal.",
+      "Let's leave early so we can set up before the sun goes down."
+    ]
+  },
+  {
+    "title": "Meeting with the city planning department",
+    "summary": "Residents presented concerns about a proposed apartment building near the elementary school. The planning staff said they would study traffic impact and hold a public hearing in the fall.",
+    "transcript": [
+      "Thank you for hearing us, we're worried about traffic near the elementary school.",
+      "The proposed building has about one hundred and twenty units with limited parking.",
+      "Our kids walk along that street every morning, and it's already very busy.",
+      "We understand, and the traffic study will look at drop off times specifically.",
+      "Will the developer be required to add a crosswalk or a signal?",
+      "That depends on the results of the study, and we'll share them publicly.",
+      "We plan to hold a public hearing in October, so you'll get formal notice.",
+      "Please also consider green space, because the lot is near the creek.",
+      "Thank you, we'll document all the comments and include them in the report."
+    ]
+  },
+  {
+    "title": "Language exchange practice in Spanish",
+    "summary": "Two learners practiced ordering food and talking about their weekends in Spanish. They corrected each other's verb tenses and planned to switch to a new topic next time.",
+    "transcript": [
+      "Hola, shall we start with ordering food at a restaurant today?",
+      "Quiero una sopa de verduras, por favor, y agua sin gas.",
+      "Very good, but you should say quisiera instead, it sounds more polite.",
+      "Ayer fui al mercado y compre fruta muy fresca.",
+      "Close, you wanted to say compre, which is correct, nice job.",
+      "Mi fin de semana fue tranquilo, le\u00ed un libro en el parque.",
+      "Let's try describing our plans for next weekend in the future tense.",
+      "Voy a visitar a mi hermana y vamos a cocinar juntos.",
+      "Next time let's talk about the news, because it's a harder vocabulary."
+    ]
+  },
+  {
+    "title": "Team lead talking through a code review",
+    "summary": "The lead reviewed a pull request that added caching to the search service. They asked for tests around cache invalidation and a clearer name for one helper function.",
+    "transcript": [
+      "I looked through the caching change, and the overall approach makes sense.",
+      "My main concern is what happens when a product is updated in the catalog.",
+      "The cache key doesn't include the locale, so results could leak across languages.",
+      "Can you add a test that covers invalidation when a product changes price?",
+      "The helper named process is too vague, so rename it to normalize query.",
+      "I also think the timeout should be configurable through the environment.",
+      "Otherwise the change looks clean, and the logging is helpful for debugging.",
+      "Please push a new version once the tests pass, and I'll approve it.",
+      "Thanks for keeping the diff small, that made the review much easier."
+    ]
+  },
+  {
+    "title": "Voice memo on a startup pitch",
+    "summary": "The founder rehearsed a short pitch for a tool that helps small clinics manage appointments. He focused on the problem of missed visits and the early results from two pilot clinics.",
+    "transcript": [
+      "Let me practice the pitch once before I meet the investor on Thursday.",
+      "Small clinics lose about one fifth of their appointments to no shows every month.",
+      "Our tool sends reminders, lets patients reschedule, and fills open slots automatically.",
+      "Two pilot clinics have cut their no show rate by almost half in six weeks.",
+      "The clinics are paying a monthly fee, and they say it saves them real money.",
+      "We need to show a clear path to fifty clinics within the next year.",
+      "I should tighten the opening, because it still sounds a bit generic.",
+      "The competitor slide needs better data, so I'll update it tonight.",
+      "Okay, that's the rough version, time to get some sleep before the meeting."
+    ]
+  },
+  {
+    "title": "Interview with a ferry captain",
+    "summary": "The captain describes the daily routine of crossing a rough strait and how the weather changes the schedule. He also shares a story about a passenger who insisted on seeing the engine room.",
+    "transcript": [
+      "I've been running this ferry route for twenty two years now.",
+      "The crossing is only forty minutes, but the water can change very quickly.",
+      "When the wind comes from the north, we often have to delay the departure.",
+      "The crew checks the forecast three times before the first run of the day.",
+      "Passengers don't see most of the work, like the engine checks and the radio calls.",
+      "Once a child asked me if the boat could fly, and I told her no, not yet.",
+      "One winter a passenger insisted on visiting the engine room, and he loved it.",
+      "The best part of the job is watching the sun come up over the water.",
+      "If you ever ride with us, stand near the front and watch the birds."
+    ]
+  },
+  {
+    "title": "Project kickoff for a website redesign",
+    "summary": "The project team agreed on the goals of the website redesign, including faster load times and better mobile navigation. They assigned owners for content, design, and engineering tasks.",
+    "transcript": [
+      "Welcome everyone, this kickoff is about the new website redesign.",
+      "The main goals are faster load times and a much better mobile menu.",
+      "Content is owned by Lena, and she'll audit all pages by the end of the month.",
+      "Design will be led by Tomas, with two rounds of user testing scheduled.",
+      "Engineering will move the site to the new framework in phases.",
+      "We don't want to launch everything at once, so we'll release the homepage first.",
+      "Please raise any risks in the shared tracker, not in private chats.",
+      "Our target launch date for the homepage is early December.",
+      "Thanks everyone, let's meet again next Monday for the first status check."
+    ]
+  },
+  {
+    "title": "Reflection after a food bank shift",
+    "summary": "The volunteer recalls sorting donations and talking with families who came for groceries. The experience made them want to organize a monthly drive at their office.",
+    "transcript": [
+      "Today I spent four hours sorting canned goods and checking expiration dates.",
+      "The line was long, and a lot of families came with young children.",
+      "One mother told me she had just started a new job and needed help for a month.",
+      "It was a reminder that people in our town are struggling, even when they work hard.",
+      "The coordinator said the shelves are almost empty before the holiday season.",
+      "I'd like to organize a monthly food drive at my office next year.",
+      "We could set up a bin in the lobby and send reminders in the newsletter.",
+      "It would be simple, and everyone can give one item without much effort.",
+      "I'll email the coordinator tomorrow and ask for a list of most needed items."
+    ]
+  },
+  {
+    "title": "Phone call about a car repair estimate",
+    "summary": "The mechanic explained that the car needs new brake pads and a rotor replacement on the front axle. The owner asked for the total and whether the timing belt needs attention soon.",
+    "transcript": [
+      "Your front brakes are down to about two millimeters, so they need replacing.",
+      "The rotors are scored, and they'll need to be replaced at the same time.",
+      "The total for the front axle comes to about four hundred and twenty dollars.",
+      "Is there anything else I should be worried about on the car right now?",
+      "The timing belt has about ten thousand miles left, so it's fine for now.",
+      "I'd still plan to replace it within the next year to avoid a costly failure.",
+      "We can do the brakes tomorrow morning if you drop the car off before eight.",
+      "Please call if the price changes, because I don't want surprises on the bill.",
+      "Thanks, I'll bring it in tomorrow, see you then."
+    ]
+  },
+  {
+    "title": "Call with an accountant about quarterly taxes",
+    "summary": "The accountant reviewed the estimated tax payment due this quarter and suggested setting aside a percentage of each invoice. She also mentioned a deduction for home office space.",
+    "transcript": [
+      "Your estimated payment for this quarter is due on the fifteenth of the month.",
+      "Based on your income so far, the total should be around eleven thousand dollars.",
+      "I'd recommend setting aside about thirty percent of every client payment.",
+      "Open a separate savings account just for taxes, so the money isn't spent by accident.",
+      "Your home office deduction might be larger than you expect this year.",
+      "Keep receipts for internet, phone, and any new equipment you bought for work.",
+      "Did you buy the new laptop before or after the end of the year?",
+      "It was in October, so it counts for this year's return.",
+      "Send me the bank statements by Friday and I'll finish the estimate."
+    ]
+  },
+  {
+    "title": "Idea notes for a board game night",
+    "summary": "The host proposed a monthly board game night with rotating themes and a potluck dinner. Friends agreed to bring snacks and to vote on the first game in the group chat.",
+    "transcript": [
+      "I'm thinking about hosting a board game night once a month at my place.",
+      "Each month we'd pick a theme, like mysteries, strategy, or cooperative games.",
+      "Let's have a potluck, so nobody has to cook the whole dinner alone.",
+      "I'll bring the big folding table and enough chairs for eight people.",
+      "Everyone should vote on the first game in the group chat this week.",
+      "My suggestion for the opener is a cooperative game that's easy to learn.",
+      "We can end the night at ten so people can get home without rushing.",
+      "If the first night goes well, we can rotate who hosts each month.",
+      "Okay, I'll send the invite tomorrow and see who is actually interested."
+    ]
+  },
+  {
+    "title": "Monthly budget review with partner",
+    "summary": "The couple reviewed their monthly spending and found that dining out had grown significantly. They set a new limit for restaurants and agreed to move extra cash into a savings account.",
+    "transcript": [
+      "Let's look at the budget for last month and see where the money went.",
+      "Groceries were close to plan, but we spent a lot on takeout this time.",
+      "Eating out cost us about four hundred dollars more than we intended.",
+      "How about a limit of two hundred for restaurants starting next month?",
+      "That works, and we can cook a big batch on Sundays to save time.",
+      "We also have an extra eight hundred dollars from the bonus this quarter.",
+      "I'd like to move that into the emergency fund and keep it there.",
+      "Agreed, and let's set up an automatic transfer on the first of each month.",
+      "Good, I'll update the spreadsheet tonight and send you the summary."
+    ]
+  },
+  {
+    "title": "Meeting notes with a landscape architect",
+    "summary": "The architect presented options for redesigning the backyard, including a raised vegetable bed and a gravel path. The client asked about drainage and the cost of a small pergola.",
+    "transcript": [
+      "I have three options for the backyard, and each one has different tradeoffs.",
+      "The first keeps the lawn but adds a curved flower border along the fence.",
+      "The second adds raised vegetable beds and a gravel path through the middle.",
+      "The third creates a small patio with a pergola for shade in the afternoon.",
+      "Drainage is the main issue, because the lower corner stays wet after rain.",
+      "We can add a dry creek bed to move the water away from the house.",
+      "A pergola of that size would cost around three thousand dollars installed.",
+      "Which option feels closest to how you want to use the space?",
+      "Take a few days, and we'll meet again to finalize the layout."
+    ]
+  },
+  {
+    "title": "Voice memo about refinancing a mortgage",
+    "summary": "The speaker compared two refinancing offers, one with a lower rate and higher fees. He needs to decide before the rate lock expires at the end of the week.",
+    "transcript": [
+      "I have two refinancing offers on the table, and I need to compare them.",
+      "The first has a rate of six point one and about four thousand in closing costs.",
+      "The second has a rate of six point four with almost no upfront fees.",
+      "Over the next five years, the first one saves more if I stay in the house.",
+      "I'm not sure how long I'll live here, which makes this harder to decide.",
+      "The rate lock expires Friday, so I need to call the lender tomorrow.",
+      "Ask whether the closing costs can be rolled into the loan amount.",
+      "Also check if there's a penalty for paying off the loan early.",
+      "Okay, note to self, decide by Thursday evening and send the paperwork."
+    ]
+  },
+  {
+    "title": "Recording of a school board meeting",
+    "summary": "The board discussed a proposal to start classes thirty minutes later for middle school students. Parents shared mixed opinions about bus schedules and after school activities.",
+    "transcript": [
+      "We're opening the public comment period on the proposed schedule change.",
+      "The plan moves middle school start time from seven forty to eight ten.",
+      "Several parents said they support it because teenagers are very tired in the morning.",
+      "Other parents worry about bus routes and how this affects working families.",
+      "A coach asked how the change would affect after school sports practices.",
+      "The district says the bus contract could absorb the change without new cost.",
+      "We need more data on attendance and grades before voting on this proposal.",
+      "Staff will bring a revised bus plan and survey results to the next meeting.",
+      "Thank you all for speaking tonight, public comment is now closed."
+    ]
+  },
+  {
+    "title": "Notes on a new coffee roasting method",
+    "summary": "The roaster explained how adjusting the airflow during the first crack changed the sweetness of a Colombian bean. He wants to test three profiles and record each result carefully.",
+    "transcript": [
+      "I changed the airflow during the first crack, and the cup tasted much sweeter.",
+      "The beans were a Colombian lot, with notes of red apple and brown sugar.",
+      "I slowed the heat right after the first crack and held it for ninety seconds.",
+      "The roast finished at about two hundred and twelve degrees, a light medium level.",
+      "The acidity stayed bright, but the body felt rounder and less sharp.",
+      "Next I want to test three profiles, changing only the airflow each time.",
+      "I'll record the weight loss and the color score for every batch.",
+      "Then I'll do a blind cupping with two friends who know coffee well.",
+      "Write all of this in the roasting log, because I will forget the details."
+    ]
+  },
+  {
+    "title": "Conversation with a nurse about vaccine schedule",
+    "summary": "The nurse explained the recommended vaccines for a child starting kindergarten. She answered questions about side effects and suggested booking the appointments before the school deadline.",
+    "transcript": [
+      "Your daughter is due for a few boosters before she starts kindergarten.",
+      "The schedule includes a diphtheria booster and the measles series update.",
+      "Most kids have a sore arm and maybe a low fever for a day or so.",
+      "You can give children's acetaminophen if she seems uncomfortable afterward.",
+      "Some parents worry about multiple shots in one visit, but it's generally safe.",
+      "We can space them out if you prefer, though that takes more appointments.",
+      "The school deadline is at the end of August, so book soon.",
+      "Bring her immunization record so we can update it right away.",
+      "Call the clinic if she has a rash or trouble breathing after any shot."
+    ]
+  },
+  {
+    "title": "Office hours chat about thesis proposal",
+    "summary": "A graduate student met her advisor to narrow the scope of her thesis on urban heat islands. The advisor suggested focusing on two cities and a single summer season.",
+    "transcript": [
+      "Your proposal is interesting, but the scope is too broad for one thesis.",
+      "You're trying to cover every city in the region, which is too much work.",
+      "Pick two cities with very different tree cover to compare the results.",
+      "Limit the study to one summer season so the data stays manageable.",
+      "Use satellite surface temperature data, and ground sensors for validation.",
+      "Also think about the policy angle, since city planners will care about the results.",
+      "Can you draft a revised research question by next Thursday?",
+      "I'll also connect you with a colleague who has worked with the sensor data.",
+      "Great progress today, let's meet again in two weeks to review the outline."
+    ]
+  },
+  {
+    "title": "Retreat planning for remote team",
+    "summary": "The planner outlined a three day retreat for a remote team, with workshops in the morning and free time after lunch. Budget and travel logistics were the main topics of discussion.",
+    "transcript": [
+      "The retreat will be three days in late March, in a mountain lodge.",
+      "Mornings are for workshops on planning, and afternoons are open for free time.",
+      "Travel costs will be covered, but people need to book their own flights.",
+      "The budget is about eighty thousand total, including meals and lodging.",
+      "Let's ask each team to suggest one workshop topic for the agenda.",
+      "Dietary restrictions need to be collected in the form by the end of the month.",
+      "We should have a quiet room for anyone who needs a break from groups.",
+      "Remote team members in other time zones need a flexible schedule too.",
+      "I'll send the draft agenda tomorrow and collect feedback by Friday."
+    ]
+  },
+  {
+    "title": "Recording notes from a pottery class",
+    "summary": "The instructor showed students how to center clay on the wheel and avoid wobbling. She reminded them that most early pieces will crack and that practice is the only real teacher.",
+    "transcript": [
+      "Start with a generous ball of clay, about the size of a grapefruit.",
+      "Slam it onto the wheel head so it sticks, then turn the wheel on medium.",
+      "Use your elbows against your thighs to keep your hands steady while centering.",
+      "Keep the water bucket close, and use just enough to keep the clay slippery.",
+      "If the clay wobbles, you're pushing too hard or unevenly on one side.",
+      "Open the center with your thumbs, but leave a floor at least a centimeter thick.",
+      "Most of your first pieces will crack or collapse, and that's completely normal.",
+      "Keep your sponge damp and wipe the rim clean before you pull the walls up.",
+      "Next week we'll learn to trim the bottom, so keep your practice pieces."
+    ]
+  },
+  {
+    "title": "Team lunch conversation about hobbies",
+    "summary": "Coworkers shared unusual hobbies over lunch, from birdwatching to competitive cheese tasting. They planned a group walk for the next Friday afternoon.",
+    "transcript": [
+      "I've been birdwatching every weekend, and I just spotted a rare warbler.",
+      "That's amazing, I didn't know there were rare birds nearby in the city.",
+      "I do competitive cheese tasting, which sounds strange but it's very serious.",
+      "There's a local club that meets twice a month to blind taste new cheeses.",
+      "I restore old bicycles, and I'm working on a frame from the nineteen fifties.",
+      "We should do a group walk to the river park next Friday afternoon.",
+      "I'll bring a pair of binoculars and some snacks for everyone.",
+      "Let's meet at the front gate at three and walk for about an hour.",
+      "Sounds like a plan, I'll put it on the team calendar tonight."
+    ]
+  },
+  {
+    "title": "Patient call about a sprained ankle",
+    "summary": "A physical therapist gave exercise instructions for a sprained ankle after two weeks in a brace. The patient was told to avoid running until strength and balance improve.",
+    "transcript": [
+      "How is the ankle feeling now that you've been out of the boot for a week?",
+      "It's better, but it still swells a bit after I walk for a long time.",
+      "That's normal at this stage, so keep up the ice and elevation at night.",
+      "Do the alphabet exercise with your foot twice a day to improve range of motion.",
+      "Balance on one foot for thirty seconds while brushing your teeth.",
+      "Once that feels easy, try standing on a folded towel to challenge your balance.",
+      "Please avoid running until you can hop on that foot without pain.",
+      "If you notice sharp pain or the swelling gets worse, call the clinic.",
+      "We'll check your progress again in two weeks at the next visit."
+    ]
+  },
+  {
+    "title": "Notes from a community garden meeting",
+    "summary": "Members of the community garden talked about a shortage of water and the need for a shared compost program. They voted to install a rain barrel system before the summer heat arrives.",
+    "transcript": [
+      "Thanks for coming, the main issue this month is the water supply.",
+      "The hose bill went up again, and the tap by the shed keeps running low.",
+      "A rain barrel system would cover most of our summer watering needs.",
+      "The estimate for six barrels and gutter connections is about nine hundred dollars.",
+      "We could also start a shared compost pile by the north fence.",
+      "Please bring kitchen scraps from home, but no meat or dairy in the bin.",
+      "Can we vote on the rain barrels today so we can install them in April?",
+      "All in favor, raise your hand, and it passes unanimously, thank you.",
+      "Next month we'll talk about the tomato blight that hit the east beds."
+    ]
+  },
+  {
+    "title": "Thinking aloud about a career change",
+    "summary": "The speaker weighs leaving accounting to become a high school teacher. He lists the financial risks and the reasons he finds teaching meaningful.",
+    "transcript": [
+      "I've been thinking about leaving accounting to teach high school math.",
+      "The idea came up after I volunteered tutoring students at the library.",
+      "The pay is lower, and I'd need a teaching certificate, which takes a year.",
+      "I'd have to cut my savings for a while, which makes me a little nervous.",
+      "But I actually enjoyed explaining fractions and watching a student finally get it.",
+      "Maybe I could start with a part time teaching assistant role this spring.",
+      "Talk to my sister, because she switched careers a few years ago.",
+      "I should also look at the certification programs at the state university.",
+      "Okay, next step is to write down the budget for a one year transition."
+    ]
+  },
+  {
+    "title": "Voice note with a plant nursery owner",
+    "summary": "The nursery owner explained which houseplants tolerate low light and how often to water a snake plant. He offered to set aside a cutting of his favorite pothos for the speaker.",
+    "transcript": [
+      "Hi, it's the nursery, I wanted to check on those plants you asked about.",
+      "For low light, the snake plant and the cast iron plant are your best bets.",
+      "Water the snake plant only every two or three weeks in the winter months.",
+      "Overwatering is the most common reason people lose their houseplants.",
+      "I have a cutting of pothos that's really healthy, I can set it aside for you.",
+      "It roots well in water, so just keep it in a bright jar on the windowsill.",
+      "Come by before five on Saturday, because we close early for the holiday.",
+      "I'll also have a sale on ceramic pots, if you want a new home for them.",
+      "See you soon, and remember to let the soil dry out between waterings."
+    ]
+  },
+  {
+    "title": "Guest lecture on ocean acidification",
+    "summary": "A marine scientist described how absorbed carbon dioxide lowers ocean pH and harms shell forming organisms. She showed data from coral reefs and oyster farms along the coast.",
+    "transcript": [
+      "Ocean acidification is often called the other carbon dioxide problem.",
+      "The ocean absorbs roughly a quarter of the carbon dioxide we release.",
+      "That absorption lowers the pH, which makes the water more acidic over time.",
+      "Shell forming animals like oysters and clams struggle to build their shells.",
+      "Our data from the oyster hatcheries shows a clear drop in larval survival.",
+      "Coral reefs are also under stress, because the acidity weakens their skeletons.",
+      "Some hatcheries now monitor the water chemistry every single morning.",
+      "They even adjust the water with buffers to keep larvae alive during the early stages.",
+      "Next time we'll talk about possible solutions, including kelp farming and policy."
+    ]
+  },
+  {
+    "title": "Diary of a first marathon training week",
+    "summary": "The runner reports on a difficult week of training with long slow runs and sore calves. He is pleased with his consistency but worries about a planned hill workout.",
+    "transcript": [
+      "This was my first full week of marathon training, and it felt intense.",
+      "I ran four days, including a long run of sixteen kilometers on Sunday.",
+      "My calves were really sore by Wednesday, so I added extra stretching.",
+      "I'm trying to keep most runs slow enough to hold a full conversation.",
+      "The hill workout on Thursday was harder than I expected, but I finished it.",
+      "Sleep has been a struggle, and I think my schedule needs more rest.",
+      "I bought new running shoes because the old ones had lost their cushion.",
+      "Next week is a lighter week, with fewer miles and an extra rest day.",
+      "Overall I'm proud of the consistency, even though my legs are complaining."
+    ]
+  },
+  {
+    "title": "Meeting with a wedding photographer",
+    "summary": "The couple discussed their wedding day timeline and the shots they wanted most. The photographer suggested a first look before the ceremony and a list of family group photos.",
+    "transcript": [
+      "We want the photos to feel natural, with lots of candid moments.",
+      "The ceremony starts at four, and the reception is at the lakeside venue.",
+      "Would you be open to a first look before the ceremony, just the two of us?",
+      "It really helps with timing, and it gives us more time for family photos.",
+      "We have a long list of family groups, so let's write them down in order.",
+      "Will you be able to shoot both the ceremony and the dancing at the reception?",
+      "Yes, I'll bring two cameras and a backup, so nothing gets missed.",
+      "We'd also love a few shots of the sunset over the lake, if the timing works.",
+      "Great, let's send the final timeline and shot list by the end of the month."
+    ]
+  },
+  {
+    "title": "Brief voice memo on a ski trip",
+    "summary": "The speaker rates the slopes at a small mountain resort and notes that the powder was excellent. He plans to book the same cabin next season if the snow holds.",
+    "transcript": [
+      "Quick note from the ski trip, the conditions were excellent on Saturday.",
+      "We got about fifteen centimeters of fresh powder overnight on the north side.",
+      "The blue runs were fun, and the black diamond near the top was steep.",
+      "The lift lines were short before nine, so we got in several runs early.",
+      "Lunch at the lodge was decent, but the hot chocolate was the highlight.",
+      "The cabin we rented had a hot tub, which was perfect after a long day.",
+      "Next season I'd like to book the same cabin for a full week.",
+      "We should also try the night skiing session, since the lights look great.",
+      "Okay, that's all, I need to pack the skis before it gets dark."
+    ]
+  },
+  {
+    "title": "Interview with a tailor about bespoke suits",
+    "summary": "The tailor explained the steps of making a bespoke suit, from the first measurements to the final fitting. He emphasized that good fabric and patience matter more than trends.",
+    "transcript": [
+      "A bespoke suit starts with about thirty measurements taken by hand.",
+      "I then draft a paper pattern, which takes me a full afternoon to get right.",
+      "The first fitting is called the baste, and the jacket is sewn together loosely.",
+      "At that stage I mark every adjustment in chalk on the fabric.",
+      "Most clients need two or three fittings before they feel fully comfortable.",
+      "The best fabric is worth paying for, because it drapes and wears much better.",
+      "I don't chase trends, because a well cut suit lasts for decades.",
+      "My father taught me that the shoulder is where everything begins and ends.",
+      "If you're considering one, come in and talk to me before choosing the cloth."
+    ]
+  },
+  {
+    "title": "Chat with a barista about latte art",
+    "summary": "The barista shared tips on steaming milk and pouring rosettas, and admitted that his early attempts looked like blobs. He recommended practicing on a cup of water before using real milk.",
+    "transcript": [
+      "The secret to latte art is the texture of the milk, not the pour itself.",
+      "You want the milk to look like wet paint, smooth and glossy with no big bubbles.",
+      "I started by making a bunch of blobs, and honestly they looked like ghosts.",
+      "Practice on a cup of water first, so you can see the pattern without wasting milk.",
+      "Hold the pitcher low at the start, then raise it slowly near the end.",
+      "The rosetta needs a steady wiggle, and you pull through the middle to finish.",
+      "Keep your espresso shot consistent, or the crema changes and ruins the design.",
+      "My best advice is to practice every morning for ten minutes before your shift.",
+      "Come by on Tuesday, I'll teach you the basic heart pattern for free."
+    ]
+  },
+  {
+    "title": "Recording a debate prep session",
+    "summary": "Two students practiced arguing for and against a policy to reduce plastic packaging. They focused on rebuttals and on finding clear statistics to support each point.",
+    "transcript": [
+      "Let's start with your opening statement, keep it under two minutes.",
+      "Our side argues that plastic packaging makes food waste worse in many cases.",
+      "The other side will say that plastic protects products and prevents spoilage.",
+      "We need a clear statistic here, like the share of single use packaging in stores.",
+      "I have a source from a recycling report that shows low collection rates.",
+      "Good, and when they bring up cost, remind the judges about long term savings.",
+      "Let's practice the rebuttal where they claim recycling is already working.",
+      "Try to stay calm, speak slowly, and make eye contact with the judges.",
+      "One more run, then we'll review your notes and cut the extra words."
+    ]
+  },
+  {
+    "title": "Investor pitch practice with co founder",
+    "summary": "The co founders rehearsed a seed pitch for a logistics software company. They focused on tightening the market size slide and explaining why their margins are improving.",
+    "transcript": [
+      "Let's run the full pitch once, then we'll fix the slides that drag.",
+      "The market size slide still feels too vague, so we need one clear number.",
+      "Our gross margin improved from forty to fifty two percent over the last year.",
+      "Investors will ask why margins improved, so explain the change in shipping costs.",
+      "The customer quote on slide seven is strong, keep that near the start.",
+      "The team slide should show that our CTO built a similar system before.",
+      "Let's cut the competitor section from six slides down to two.",
+      "The ask should be clear, with the amount and what it buys us in twelve months.",
+      "Good, let's do one more run tomorrow morning before the call."
+    ]
+  },
+  {
+    "title": "Voice memo on home renovation contractor",
+    "summary": "The homeowner recorded notes after meeting a contractor about updating a bathroom. The contractor will return with a detailed quote and a timeline for tile and plumbing work.",
+    "transcript": [
+      "Met with the contractor about the bathroom, and he seems very experienced.",
+      "He wants to replace the tub with a walk in shower and move the vanity.",
+      "The plumbing might need updating because the pipes behind the wall are old.",
+      "He estimated four to five weeks, depending on the tile delivery schedule.",
+      "The biggest unknown is what he finds behind the wall once he opens it up.",
+      "He'll return next Monday with a written quote and a list of materials.",
+      "Ask him about a backup budget, in case the pipes need a full replacement.",
+      "I also want to see examples of his finished bathrooms before signing anything.",
+      "Note to self, get three quotes total and compare the warranty details."
+    ]
+  },
+  {
+    "title": "Meeting about a community library program",
+    "summary": "Library staff proposed a summer reading program for children with prizes and weekly story hours. They discussed volunteer needs and asked the board to approve a small budget increase.",
+    "transcript": [
+      "The summer reading program will run for ten weeks this year.",
+      "Children can log books, and every five books earns a small prize.",
+      "We're also hosting a story hour every Wednesday morning at ten.",
+      "We need about twenty volunteers to help run the story hour and sign up families.",
+      "The prizes and craft supplies would cost about twelve hundred dollars.",
+      "Could the board approve a small increase to the children's budget line?",
+      "We'll track participation so we can show results in the annual report.",
+      "Local bakeries have already offered to donate snacks for the final event.",
+      "Thank you, we'll send the detailed plan to the board by the end of the week."
+    ]
+  },
+  {
+    "title": "Notes from a chess club evening",
+    "summary": "Members reviewed an opening trap they had seen in a recent tournament game. They also discussed a new rule for timed matches and the schedule for the spring league.",
+    "transcript": [
+      "Tonight we're reviewing the trap in the Italian opening that caught several players.",
+      "After the knight move, black has to be careful about the bishop on the diagonal.",
+      "The position looks quiet, but a quick sacrifice can win material right away.",
+      "Let's set up the board and play the line from the tournament game.",
+      "Also, the club voted to switch to a ten minute clock for league matches.",
+      "The spring league starts in March, and the first round is in the library.",
+      "Please sign up before the end of the month so we can plan the pairings.",
+      "Next session, we'll study endgames with king and pawn positions.",
+      "Okay, that's enough for tonight, see everyone next Thursday."
+    ]
+  },
+  {
+    "title": "Memo about upgrading an old laptop",
+    "summary": "The speaker considered replacing the memory and storage on an old laptop instead of buying a new one. He compared the cost of the upgrade with a refurbished model.",
+    "transcript": [
+      "My laptop is six years old and starting to feel very slow.",
+      "Upgrading the memory to sixteen gigabytes costs about fifty dollars.",
+      "Replacing the old hard drive with a solid state drive is another fifty or so.",
+      "That would make the machine feel almost new for basic tasks and browsing.",
+      "A refurbished model with better specs would cost around six hundred dollars.",
+      "The battery is also weak, so I'd need to replace that too.",
+      "I'll check whether this model has an easy access panel for the memory.",
+      "If the upgrade works, I'll save the money for a future trip.",
+      "Let's test the memory first, then decide about the drive later this week."
+    ]
+  },
+  {
+    "title": "Interview with a midwife about home births",
+    "summary": "The midwife explained the criteria for planning a home birth and the safety checks she performs. She emphasized the importance of a clear transfer plan if complications arise.",
+    "transcript": [
+      "Home birth is a safe option for many low risk pregnancies, when planned well.",
+      "We start with a full medical history and check the baby's position carefully.",
+      "I bring emergency equipment, and I'm trained in neonatal resuscitation.",
+      "Every plan includes a clear transfer protocol to the nearest hospital.",
+      "If the labor slows down or the baby shows distress, we transfer right away.",
+      "Families need to understand that transfers are a normal part of safe planning.",
+      "I spend a lot of time talking with families about their fears and expectations.",
+      "The most rewarding part is seeing a calm birth with the family in control.",
+      "If you're considering it, schedule a consultation early in your pregnancy."
+    ]
+  },
+  {
+    "title": "Phone call about a flight delay",
+    "summary": "The traveler called the airline to ask about a canceled connection and a hotel voucher. The agent rebooked the flight and offered a meal credit for the long wait.",
+    "transcript": [
+      "Hi, my connecting flight was canceled, and I need to rebook as soon as possible.",
+      "I see that the next available flight leaves in about six hours from the same airport.",
+      "Is there anything earlier, perhaps through another city with a shorter layover?",
+      "Yes, there's a route through Chicago that lands only forty minutes later.",
+      "Please book that one, and make sure my seat is next to my travel companion.",
+      "I've added a meal voucher for the delay, you can use it at any terminal restaurant.",
+      "Will I get a hotel voucher, because the delay is more than eight hours?",
+      "The delay is under that limit, so the voucher isn't available this time.",
+      "Thanks, please email me the new itinerary and the confirmation number."
+    ]
+  },
+  {
+    "title": "Recording of a neighborhood association meeting",
+    "summary": "Residents discussed a plan to repaint the crosswalks near the park and install new benches. They approved a small fundraising campaign and assigned volunteers for the project.",
+    "transcript": [
+      "Let's begin with the crosswalk project near the park entrance.",
+      "The paint has faded badly, and two of the crosswalks are hard to see at night.",
+      "The city will pay for the paint, but we're responsible for the benches.",
+      "A bench costs about four hundred dollars installed, and we need four of them.",
+      "We'll run a small fundraising campaign with a neighborhood pancake breakfast.",
+      "Who can volunteer to coordinate the breakfast and collect donations?",
+      "I'll take that, and I'll need two people to help with the cooking.",
+      "All in favor of approving the campaign, please say aye.",
+      "The motion passes, and we'll meet again next month to check the progress."
+    ]
+  },
+  {
+    "title": "Team member feedback after a product launch",
+    "summary": "The product manager gathered feedback from the launch team about communication gaps and last minute changes. The group agreed to set a freeze date earlier in future launches.",
+    "transcript": [
+      "Thanks for joining the launch retro, let's be honest about what went wrong.",
+      "The biggest issue was the feature freeze, which slipped twice in the final week.",
+      "Marketing found out about the pricing change only two days before the announcement.",
+      "We need a shared calendar for launch milestones that everyone can see.",
+      "Support didn't get enough documentation, so customers were calling in confused.",
+      "On the good side, the beta group gave us very useful feedback in the second week.",
+      "For the next launch, let's set the freeze date at least ten days earlier.",
+      "Also, every change after the freeze needs a written reason and a sign off.",
+      "Thank you all, I'll write up the action items and share them by Monday."
+    ]
+  },
+  {
+    "title": "Recording of a riverside walk with a friend",
+    "summary": "Two old friends walked along the river and talked about their families and their plans for the year. One of them is considering a move to the coast after retiring.",
+    "transcript": [
+      "It's so peaceful out here, I forget how much I miss walking by water.",
+      "The herons are back this year, I counted at least three near the bridge.",
+      "How are the kids doing with their new school?",
+      "They're adjusting well, though my youngest still complains about the bus.",
+      "I've been thinking about moving to the coast after I retire next spring.",
+      "You'd really leave the city after all these years?",
+      "I think I'd like a slower pace and a small garden near the sea.",
+      "We should visit the coast together this summer and see if it suits you.",
+      "Yes, let's plan it, I'll look up a few rentals this weekend."
+    ]
+  },
+  {
+    "title": "Voice memo about a music festival lineup",
+    "summary": "The speaker compared the lineup for a music festival and chose the artists they most want to see. They also noted the ticket deadline and the camping option.",
+    "transcript": [
+      "The festival lineup dropped today, and there are a few artists I really want.",
+      "The headliner on Saturday is great, but I'm more excited about the smaller tents.",
+      "There's a jazz trio on Sunday morning that I've wanted to see for years.",
+      "Tickets go up in price after the end of the month, so decide soon.",
+      "Camping passes sell out quickly, so I should grab one if we're going.",
+      "Check the shuttle schedule, because the parking lot is a long walk.",
+      "We need to bring ponchos, the weather forecast looks wet for the weekend.",
+      "I'll message the group chat to see who's in and who's staying home.",
+      "Okay, note to self, buy tickets tonight before the deadline."
+    ]
+  },
+  {
+    "title": "Interview with a retired firefighter",
+    "summary": "The firefighter describes his first big fire and the training that helped him stay calm. He also talks about the community events he now helps run with the younger crews.",
+    "transcript": [
+      "My first big fire was an old warehouse, and I was scared the whole time.",
+      "The training kicked in, and I focused on one task at a time.",
+      "You learn to trust your crew, because they're the ones watching your back.",
+      "After every call we'd sit down and talk through what went well and what didn't.",
+      "That habit saved lives more than any piece of equipment ever did.",
+      "Now I help run the school visits and teach kids about smoke detectors.",
+      "Kids are surprisingly good at remembering the escape plan we practice.",
+      "I still get nervous before big events, but I know how to focus.",
+      "If you're thinking about joining, come visit the station on a Saturday."
+    ]
+  },
+  {
+    "title": "Office brainstorm for a holiday campaign",
+    "summary": "The marketing team tossed around ideas for a winter holiday campaign, including a warm cookie theme and a donation drive. They agreed to test two concepts with a small audience first.",
+    "transcript": [
+      "We need a holiday campaign that feels warm, not just another sale.",
+      "One idea is a cookie theme, with recipes from our customers in short videos.",
+      "Another idea is a donation drive, where every purchase gives a meal to a family.",
+      "The donation drive could build more trust, but it needs careful messaging.",
+      "Let's test both concepts with a small audience before we decide.",
+      "We can run two short ad sets for one week and compare the click rates.",
+      "The cookie concept might be cheaper, since the videos are user generated.",
+      "Let's get the creative brief to design by Friday, so they have time.",
+      "Good, I'll set up the test budget and share the plan with the group."
+    ]
+  },
+  {
+    "title": "Recording a sourdough starter troubleshooting session",
+    "summary": "The baker described why her starter stopped rising and what she changed to revive it. She now feeds it twice a day and keeps it in a warmer spot.",
+    "transcript": [
+      "My starter has been sluggish for a week and it smells a little sour.",
+      "I've been feeding it once a day, which might not be enough in this cold kitchen.",
+      "I switched to a twice daily feeding schedule with equal parts flour and water.",
+      "I also moved the jar to the top of the fridge, where it's a little warmer.",
+      "After three days, the bubbles finally started showing again on the surface.",
+      "The smell is much better now, more yeasty and less like nail polish.",
+      "I'll keep feeding it until it doubles reliably within six hours of each feed.",
+      "Once it's stable, I'll bake a test loaf to see how the crumb turns out.",
+      "Note for later, keep a log of the feeding times and the room temperature."
+    ]
+  },
+  {
+    "title": "Phone call with an insurance adjuster",
+    "summary": "The adjuster reviewed the damage from a car accident and explained the next steps for the claim. The claimant was told to send repair estimates and photos within ten days.",
+    "transcript": [
+      "Thanks for your patience, I'm handling the claim for the accident last month.",
+      "The damage on the rear bumper and the trunk looks consistent with the report.",
+      "We'll need at least two repair estimates from approved shops in your area.",
+      "Please send clear photos of the damage from all four sides of the car.",
+      "Do you have the police report number, so I can attach it to the file?",
+      "Yes, it's on the form I sent you, and I can read it to you now.",
+      "Once I have the estimates, I'll approve the repair within three business days.",
+      "If you have a rental car coverage, make sure to keep the receipts.",
+      "Thanks, I'll send the documents by Friday, and you'll hear back soon."
+    ]
+  },
+  {
+    "title": "Voice note about a new tea shop idea",
+    "summary": "The speaker imagines a tea shop with a tasting bar and a small bookshelf for customers. They plan to visit three shops in other cities to learn about pricing and layout.",
+    "transcript": [
+      "I've been picturing a tea shop with a long tasting bar near the window.",
+      "Customers could sample five teas and buy the one they like best.",
+      "A small bookshelf in the corner would make people want to stay longer.",
+      "The pricing needs to be simple, maybe by the gram with clear labels.",
+      "I want to visit three shops in other cities to see how they work.",
+      "One is in Portland, and it has a beautiful green tea selection.",
+      "I'll take photos of the layouts and jot down what customers seem to enjoy.",
+      "The biggest challenge will be keeping the tea fresh in a busy shop.",
+      "Okay, next step is to call the supplier and ask about small batch samples."
+    ]
+  },
+  {
+    "title": "Meeting with a dentist about braces",
+    "summary": "The dentist explained the timeline for braces and how long the treatment will last. She also described the retainer that the teenage patient will need after the braces come off.",
+    "transcript": [
+      "Your son's teeth are crowded, so braces will help with alignment over time.",
+      "Treatment usually takes about eighteen to twenty four months for his case.",
+      "We'll check his progress every six weeks, and he may need a few small adjustments.",
+      "Brushing around the brackets is important, so he should use a small brush.",
+      "He should avoid hard candy and sticky snacks, which can break the wires.",
+      "After the braces come off, he'll wear a retainer every night for several years.",
+      "Some teens forget their retainer, so please keep a close eye on that.",
+      "The total cost is around four thousand, and we can set up a monthly plan.",
+      "Any questions about the schedule or the payment options before we start?"
+    ]
+  },
+  {
+    "title": "Notes on a planning session for a wedding",
+    "summary": "The couple discussed guest seating and vendor deadlines for their wedding. They decided to finalize the menu this month and send the invitations before the holidays.",
+    "transcript": [
+      "We need to finalize the seating chart before the caterer's deadline.",
+      "Your grandparents should sit near the front, so they're close to the dance floor.",
+      "We have about twelve tables left, and two families still haven't replied.",
+      "The caterer needs the menu by the end of this month, with dietary notes.",
+      "Let's choose the vegetarian option for the main course, to keep it simple.",
+      "The invitations should go out before the holidays, so guests have time to plan.",
+      "I'll order the paper samples this week and bring them to the next meeting.",
+      "Our florist wants the final flower list by early November, so we have time.",
+      "Great, let's divide the tasks, and check in again on Sunday evening."
+    ]
+  },
+  {
+    "title": "City council debate about bike lanes",
+    "summary": "Council members debated a plan to add protected bike lanes on a busy avenue. Business owners worried about parking, while cyclists argued the lanes would reduce accidents.",
+    "transcript": [
+      "The proposal adds protected bike lanes along the full length of Oak Avenue.",
+      "Business owners are concerned that removing parking will hurt their customers.",
+      "The traffic data shows that cyclist accidents have increased on that street.",
+      "Protected lanes with physical barriers have been shown to reduce injuries sharply.",
+      "We could keep half the parking on the side streets to ease the concern.",
+      "I'd like to see a trial period of six months with a clear review afterward.",
+      "The cost is estimated at about two million, mostly for paint, barriers, and signals.",
+      "We should also hear from the disability community about access and curb cuts.",
+      "Let's schedule a vote for next month, after we review the public comments."
+    ]
+  },
+  {
+    "title": "Vocal warmup notes from a choir rehearsal",
+    "summary": "The choir director led breathing exercises and a few warmups before a difficult piece. She asked singers to focus on pitch accuracy in the high section of the second verse.",
+    "transcript": [
+      "Let's begin with slow breathing, inhale through the nose for four counts.",
+      "Now hum softly on a single note, and feel the buzz in your lips.",
+      "Good, now slide up and down through a five note scale, nice and relaxed.",
+      "The second verse has a tricky entrance, so sopranos, watch the high note.",
+      "Altos, you're slightly flat in the bridge, so listen to the piano closely.",
+      "Men, keep your vowels open and don't push the sound from the throat.",
+      "We'll run the piece once from the top, then pick out the difficult measures.",
+      "Remember, the performance is in three weeks, so practice at home every day.",
+      "Thank you all, that was a much better sound than last week."
+    ]
+  },
+  {
+    "title": "Recording a session with a voice coach",
+    "summary": "A voice coach worked with a speaker on pacing and breath support for a keynote talk. She suggested pausing after key points and slowing down during the opening story.",
+    "transcript": [
+      "Let's start with your opening sentence, and take a full breath before you speak.",
+      "You're rushing through the first paragraph, so slow down by about twenty percent.",
+      "Try pausing after each key point, so the audience has time to absorb it.",
+      "Your voice drops at the end of sentences, which makes you sound unsure.",
+      "Breathe from your diaphragm, and let your ribs expand when you inhale.",
+      "Put a small emphasis on the number in your statistic, but keep it natural.",
+      "Let's practice the story about your grandmother, and focus on warmth.",
+      "Smile slightly when you say the word together, it changes the tone.",
+      "Good, that was much better, let's record it once more for comparison."
+    ]
+  },
+  {
+    "title": "Doctor visit about seasonal allergies",
+    "summary": "The patient complained of sneezing and itchy eyes each spring. The doctor recommended a daily antihistamine and suggested nasal spray if symptoms continue through May.",
+    "transcript": [
+      "What symptoms have you been noticing this spring, and when do they start?",
+      "I'm sneezing every morning, and my eyes are itchy and watery by afternoon.",
+      "Those are classic signs of seasonal allergies, mostly from tree pollen.",
+      "I'd recommend a daily non drowsy antihistamine, taken in the morning.",
+      "If the stuffiness continues, try a nasal steroid spray, used every day.",
+      "It takes a week or two to work fully, so don't stop it too early.",
+      "Keep your windows closed during high pollen days and shower after being outside.",
+      "Wrap sunglasses around your eyes when you walk outside on windy days.",
+      "Call the office if symptoms get worse or you develop a fever or a cough."
+    ]
+  },
+  {
+    "title": "Voice memo on a new workout split",
+    "summary": "The lifter planned a four day strength split, with upper and lower days alternated. He added a rest day after each heavy session and wrote down target weights for the first month.",
+    "transcript": [
+      "New workout split starts Monday, four days a week, upper and lower alternating.",
+      "Monday is heavy upper body, focusing on bench press and rows.",
+      "Tuesday is heavy lower body, with squats and Romanian deadlifts.",
+      "Thursday is a lighter upper day, with more volume and shoulder work.",
+      "Friday is a lighter lower day, with lunges and a long set of calf raises.",
+      "I'll take a rest day after each heavy session, no exceptions.",
+      "Write down target weights for the first month, so I can see progress.",
+      "If my elbows hurt, drop the weight and focus on controlled reps.",
+      "Okay, that's the plan, I'll start with lighter weights to learn the form."
+    ]
+  },
+  {
+    "title": "Interview with an astronomer about comets",
+    "summary": "The astronomer explained how comets form from icy material at the edge of the solar system. She described the bright tails that form as the comet nears the sun.",
+    "transcript": [
+      "Comets are leftovers from the early solar system, made of ice and dust.",
+      "Most of them live far beyond Neptune in a region called the Kuiper belt.",
+      "When a comet swings close to the sun, its ice begins to turn directly into gas.",
+      "That gas and dust stream away, forming the long glowing tail we see from Earth.",
+      "There are always two tails, one of dust and one of charged gas, pointing differently.",
+      "The tails always point away from the sun, no matter which way the comet moves.",
+      "I remember the night we saw a comet over the desert, and it was incredibly bright.",
+      "We're tracking a new comet next spring that could be visible to the naked eye.",
+      "If you have a dark sky, go outside in the early evening and look west."
+    ]
+  },
+  {
+    "title": "Business lunch with a supplier",
+    "summary": "The buyer and supplier discussed a price increase on packaging materials and ways to lock in a better rate. They agreed to review volumes and sign a six month contract.",
+    "transcript": [
+      "Thanks for meeting, I know the packaging price increase has been difficult.",
+      "Our costs for paperboard went up about fifteen percent this year.",
+      "We can offer a fixed rate if you commit to larger, predictable volumes.",
+      "How about a six month contract with a volume tier and a clear review date?",
+      "We'd need to see at least five thousand units per month to qualify.",
+      "That's doable, and we can forecast demand more accurately going forward.",
+      "Let's also talk about delivery windows, because late trucks cost us a lot.",
+      "We can offer a guaranteed two day window for orders placed before noon.",
+      "Great, I'll send the draft contract to legal and we can sign next week."
+    ]
+  },
+  {
+    "title": "Recording of a childhood memory with my brother",
+    "summary": "Two siblings recalled a summer they spent building a treehouse behind their grandmother's house. The project ended with a broken ladder and a lot of laughter.",
+    "transcript": [
+      "Do you remember the summer we tried to build a treehouse behind Grandma's?",
+      "We found the old boards in the shed and dragged them across the whole yard.",
+      "Dad helped with the first floor, but we insisted on doing the walls ourselves.",
+      "The ladder snapped on the third day, and you landed in the flower bed.",
+      "I still have the scar on my elbow from that day, it's basically a family story.",
+      "We never finished the roof, but we made a sign that said keep out.",
+      "Grandma brought us lemonade every afternoon, which was the best part.",
+      "I miss those summers, when the biggest worry was the next rainstorm.",
+      "We should go back and take a picture of the old tree this year."
+    ]
+  },
+  {
+    "title": "Notes from a meeting with a landlord",
+    "summary": "The tenant asked the landlord to repair a leaking window and address mold in the bathroom. The landlord promised a repair visit within a week and a follow up inspection.",
+    "transcript": [
+      "Thanks for meeting, I wanted to raise two issues with the apartment.",
+      "The bedroom window leaks every time it rains, and the carpet is damp.",
+      "There's also mold growing around the bathroom fan, and it's getting worse.",
+      "I understand, I'll send a maintenance crew to look at the window this week.",
+      "The mold needs a professional cleaning, not just a quick scrub.",
+      "I'll arrange that too, and I'll cover the cost of the treatment.",
+      "Can you give me a date for the inspection, so I can be home?",
+      "I'll confirm the time by email, probably Thursday morning.",
+      "Thank you, please keep me updated and send any paperwork in writing."
+    ]
+  },
+  {
+    "title": "Voice memo about a bird feeder project",
+    "summary": "The speaker built a bird feeder from scrap wood and mounted it on a pole near the kitchen window. He noted which birds visited first and planned to add a water dish.",
+    "transcript": [
+      "The bird feeder is finally finished, and I built it from some scrap cedar.",
+      "I used a simple tray design with a little roof to keep off the rain.",
+      "I mounted it on a pole about six feet from the kitchen window, so we can watch.",
+      "The first visitors were chickadees and a pair of tiny nuthatches.",
+      "A woodpecker showed up on the second day and ate the suet happily.",
+      "Next I want to add a shallow water dish, because birds need water in winter.",
+      "I'll clean the feeder every two weeks to avoid spreading disease.",
+      "Maybe I'll try a thistle feeder for the goldfinches later this spring.",
+      "Okay, time to refill the seed before the squirrels find it first."
+    ]
+  },
+  {
+    "title": "Recording of a panel on remote work",
+    "summary": "Panelists shared their experiences with hybrid and fully remote teams. They emphasized written communication, clear documentation, and regular in person gatherings.",
+    "transcript": [
+      "Remote work isn't just about location, it's about how you communicate.",
+      "Our team writes everything down, so people in other time zones aren't blocked.",
+      "We have a rule that decisions happen in documents, not only in meetings.",
+      "We still gather in person twice a year, and those trips build real trust.",
+      "The hardest part is onboarding, because new people miss the hallway talk.",
+      "We pair every new hire with a buddy for the first six weeks.",
+      "Some managers struggle with measuring output, so we focus on clear goals.",
+      "Asynchronous updates have saved us hours of unnecessary status meetings.",
+      "Thank you for joining, the best advice is to document more than you think."
+    ]
+  },
+  {
+    "title": "Practice session for a piano recital",
+    "summary": "The pianist worked on a difficult passage in a Chopin nocturne, focusing on the left hand and rubato. He recorded the section slowly to check the balance between melody and accompaniment.",
+    "transcript": [
+      "Let's work on the middle section of the nocturne, the part that keeps shifting keys.",
+      "The left hand needs to stay soft, so the melody can sing above it.",
+      "I'm playing the rubato too early, before the phrase has a clear shape.",
+      "Try to breathe at the end of each phrase, instead of rushing into the next one.",
+      "Slow the metronome down to fifty, and play the left hand alone for a few minutes.",
+      "Then add the right hand, and listen for the balance between the two lines.",
+      "The final cadence should be very quiet, almost like a whisper.",
+      "Record yourself once at this tempo and compare it to the performance from last week.",
+      "Good, that feels more musical, let's rest and come back to it tomorrow."
+    ]
+  },
+  {
+    "title": "Morning call about the school fundraiser",
+    "summary": "The parent organizer confirmed the date for the spring fundraiser and asked for volunteers to run the bake sale table. The team also discussed a raffle with donated prizes from local businesses.",
+    "transcript": [
+      "Morning, the spring fundraiser is set for the last Saturday in April.",
+      "We need about six volunteers to run the bake sale table for two hours.",
+      "Can you bring a few trays of cookies, because the kids always sell out fast?",
+      "The raffle prizes are coming together, we have a gift card from the bakery already.",
+      "The hardware store offered a set of garden tools, which the kids will love.",
+      "Please send the sign up sheet to the group so people can choose their shifts.",
+      "We still need someone to handle the cash box and count it at the end.",
+      "I can do the cash box if someone else takes the raffle tickets.",
+      "Great, I'll post the schedule to the class page tonight."
+    ]
+  },
+  {
+    "title": "Notes on a hiking trip in the desert",
+    "summary": "The hiker described a canyon trail with narrow walls and a dry creek bed. He stressed the importance of carrying extra water and starting before sunrise to avoid the heat.",
+    "transcript": [
+      "The canyon trail starts from the visitor center, about four miles in total.",
+      "The walls are very narrow in places, and the light is beautiful at midday.",
+      "Temperatures climbed above ninety by eleven, so we started before sunrise.",
+      "Carry at least three liters of water per person, even for a short hike.",
+      "The dry creek bed can flash flood during storms, so check the forecast first.",
+      "We saw a lizard basking on the rocks and a hawk circling above the ridge.",
+      "The trail has no shade, so bring a hat and sunscreen, and rest often.",
+      "Tell someone your route and the time you expect to return before you leave.",
+      "Next time I'd like to try the longer loop that climbs to the overlook."
+    ]
+  },
+  {
+    "title": "Strategy call about a book club",
+    "summary": "The organizer of a book club planned to switch from monthly to biweekly meetings. Members discussed picking shorter books and rotating the host responsibilities.",
+    "transcript": [
+      "I think we should move to biweekly meetings, because the discussions feel rushed.",
+      "We could choose shorter books, around two hundred pages each, to keep the pace.",
+      "Monthly felt too slow for some people, and too fast for others.",
+      "Let's rotate the host role, so everyone gets a turn at choosing the book.",
+      "The host can also pick a snack and a discussion question for the group.",
+      "We should send a reading schedule to everyone at least a month in advance.",
+      "Does anyone have a strong feeling about the next book on the list?",
+      "I'd love to read the new translated novel, it got great reviews last month.",
+      "Okay, let's vote in the group chat and finalize the schedule by Friday."
+    ]
+  },
+  {
+    "title": "Recording my grandfather's war stories",
+    "summary": "The grandfather shares memories of his service on a cargo ship and the letters he wrote home. He talks about the friends he lost and the reunion dinners they held later.",
+    "transcript": [
+      "I worked on a cargo ship for two years, carrying supplies across the ocean.",
+      "The food was terrible most days, but the cook made bread that I still remember.",
+      "I wrote letters home every week, and my mother kept every single one.",
+      "We lost two good friends in a storm, and I think about them often.",
+      "After the war, we held reunion dinners in a small hall near the harbor.",
+      "Some of the men never talked about the war again, and I understood why.",
+      "I've always believed that remembering the names matters more than the medals.",
+      "I want you to know these stories, so they don't disappear with me.",
+      "Please keep the letters safe, and maybe read them to your children one day."
+    ]
+  },
+  {
+    "title": "Warehouse safety meeting transcript",
+    "summary": "The safety supervisor reviewed a near miss involving a forklift and reminded staff about pedestrian lanes. The team agreed to add mirrors at two blind corners and retrain drivers.",
+    "transcript": [
+      "Let's start with the near miss on Tuesday, when a forklift almost hit a worker.",
+      "The driver was turning a corner too quickly and didn't see the pedestrian lane.",
+      "Everyone must stay inside the marked walkways, even when the aisle looks empty.",
+      "We're adding convex mirrors at the two blind corners by the loading docks.",
+      "All forklift drivers need a refresher course by the end of the month.",
+      "Please report any blocked exits or damaged racks as soon as you spot them.",
+      "Wear your high visibility vests at all times, no matter how short the task is.",
+      "The supervisor will walk the floor each morning to check the lanes.",
+      "Thank you, let's keep everyone safe, and we'll review again at the next meeting."
+    ]
+  }
+]
