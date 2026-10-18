@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: brew install mint
+      - run: mint bootstrap
       - run: make check-swift-access
       - run: make check-swift-file-groups
       - run: make check-conflict-review-ui

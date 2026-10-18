@@ -238,7 +238,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "export PATH=\"/opt/homebrew/bin:$PATH\"\nif command -v mint >/dev/null; then mint run swiftlint --quiet; fi\n";
+			shellScript = "export PATH=\"/opt/homebrew/bin:$PATH\"\n# Xcode exports the simulator SDKROOT; mint must build its tools for macOS.\nif command -v mint >/dev/null; then env -u SDKROOT mint run swiftlint --quiet; fi\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 

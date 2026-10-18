@@ -52,4 +52,5 @@ aggregateTargets:
         basedOnDependencyAnalysis: false
         script: |
           export PATH="/opt/homebrew/bin:$PATH"
-          if command -v mint >/dev/null; then mint run swiftlint --quiet; fi
+          # Xcode exports the simulator SDKROOT; mint must build its tools for macOS.
+          if command -v mint >/dev/null; then env -u SDKROOT mint run swiftlint --quiet; fi
