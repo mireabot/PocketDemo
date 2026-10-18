@@ -51,15 +51,3 @@ While a recording has an unresolved conflict, the editor refuses new edits and d
 ## Offline browsing shows only loaded pages
 
 The list loads 30 recordings per page as the user scrolls. Offline, only pages loaded before going offline are available; the list footer says so. Edits to recordings past the loaded pages are picked up when browsing reaches them, not by the change feed.
-
-## Approaches I'm not fully confident in
-
-I built these from Apple and library documentation, web research or the reference app's code. They pass the build and, where noted, the verification scripts, but I have not confirmed them on a device or with a profiler.
-
-- **Off-main startup.** `PocketDB.live()` is a `@concurrent` function, based on the Swift 6.2 concurrency documentation. I did not measure launch with Instruments to confirm the main thread no longer waits on SQLite.
-- **Registering dependencies after an `await`.** `prepareDependencies` runs once the database is open, not at the start of launch. The swift-dependencies docs show it called early and once. The app holds feature screens behind a progress view until then, so no feature reads a dependency first.
-- **Toolbar glass morph on iOS 26.** The detail screen's bottom toolbar morphs only when its items use the system's shared glass background. I found that by trying variants, not from documentation, and Delete moved to the leading side for the same reason.
-- **Infinite scroll trigger.** The next page loads when the first of the last 10 rows appears, a pattern copied from the reference app. I have not tested fast scrolling or very large text sizes on a simulator.
-- **Change feed past the browse edge.** The app skips feed items for recordings it has not browsed to yet and picks them up when scrolling reaches them. The verification script covers edits past the edge. It does not cover another device deleting the last browsed recording.
-- **Interrupted server reset.** Resuming a reset after a relaunch passes the verification script, which drives the database directly. I have not run it on two simulators with real network delays.
-- **Detail previews.** The Xcode previews build, but I have not opened them in the canvas.
