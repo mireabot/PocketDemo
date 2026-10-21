@@ -29,7 +29,7 @@ Each edit carries an idempotency key. If the server applies an edit but the resp
 You need Bun, Xcode 26 and an iOS 26 simulator.
 
 ```bash
-make backend   # starts the server on http://127.0.0.1:8787 with 100 sample recordings
+make backend (separate terminal window)   # starts the server on http://127.0.0.1:8787 with 100 sample recordings
 make project   # generates the Xcode project
 make layers    # generates project layers
 make open      # opens XCode project
